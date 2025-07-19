@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Phishing Detector",
+  "version": "1.0",
+  "description": "Right-click to analyze text or links for phishing.",
+  "permissions": ["contextMenus", "notifications", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["http://localhost:8000/"],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

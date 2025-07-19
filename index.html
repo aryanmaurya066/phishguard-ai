@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PhishGuard AI - Smarter Phishing Detection</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Inter', sans-serif;
+    }
+    body {
+      background: linear-gradient(to bottom right, #eef2ff, #ffffff);
+      color: #1a1a40;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+      background-color: #4f46e5;
+      color: white;
+      animation: fadeInDown 1s ease-in-out;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      font-weight: 800;
+    }
+    header p {
+      font-size: 1.1rem;
+      margin-top: 0.5rem;
+    }
+    .section {
+      padding: 3rem 1rem;
+      max-width: 1000px;
+      margin: auto;
+      animation: fadeIn 1.2s ease-in;
+    }
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+    .card {
+      background-color: white;
+      border-radius: 1rem;
+      padding: 2rem;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+      transition: transform 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-8px);
+    }
+    .card h3 {
+      font-size: 1.3rem;
+      color: #4f46e5;
+      margin-bottom: 0.5rem;
+    }
+    .cta {
+      background: #4f46e5;
+      color: white;
+      text-align: center;
+      padding: 2rem;
+      border-radius: 1rem;
+      margin-top: 3rem;
+      animation: fadeInUp 1s ease-in-out;
+    }
+    .cta h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    .cta button {
+      background: white;
+      color: #4f46e5;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-weight: bold;
+      font-size: 1rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    .cta button:hover {
+      background: #e0e7ff;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      background-color: #f1f1f1;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media screen and (max-width: 600px) {
+      header h1 {
+        font-size: 1.8rem;
+      }
+      header p {
+        font-size: 1rem;
+      }
+      .cta h2 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>PhishGuard AI</h1>
+    <p>Smarter phishing detection. Modular. Explainable. Open.</p>
+  </header>
+
+  <section class="section">
+    <h2>Why PhishGuard?</h2>
+    <div class="features">
+      <div class="card">
+        <h3>Modular Detection Engine</h3>
+        <p>Analyze email text, sender, URLs, and web content independently — or together for max confidence.</p>
+      </div>
+      <div class="card">
+        <h3>Explainable ML</h3>
+        <p>We show you how phishing is detected — not just a black-box "yes or no." Built for learning.</p>
+      </div>
+      <div class="card">
+        <h3>Live Threat Intelligence</h3>
+        <p>Integrates with VirusTotal, PhishTank, and more to enrich results with real-time risk data.</p>
+      </div>
+      <div class="card">
+        <h3>Chrome & Gmail Extensions</h3>
+        <p>Detect phishing with one click. From inbox to browser — instant protection at your fingertips.</p>
+      </div>
+      <div class="card">
+        <h3>Open Source & Developer Friendly</h3>
+        <p>FastAPI backend, React frontend, MongoDB logs. Clone it. Hack it. Learn it.</p>
+      </div>
+      <div class="card">
+        <h3>Education & API Ready</h3>
+        <p>Use it in cybersecurity courses, or call the API directly in your apps or automation flows.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section cta">
+    <h2>Try It Free</h2>
+    <p>Paste a suspicious message or URL and get instant phishing verdicts. No login required.</p>
+    <button onclick="window.location.href='/analyze'">Analyze Now</button>
+  </section>
+
+  <footer>
+    &copy; 2025 PhishGuard AI &middot; Built with ❤️ for cybersecurity awareness.
+  </footer>
+
+  <script>
+    // React SPA Redirect (optional)
+    if (window.location.hostname.includes("localhost") || window.location.hostname.includes("phishguard")) {
+      const reactAppUrl = "/analyze";
+      document.querySelector(".cta button").addEventListener("click", () => {
+        window.location.href = reactAppUrl;
+      });
+    }
+  </script>
+</body>
+</html>

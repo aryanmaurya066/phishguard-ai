@@ -1,0 +1,71 @@
+email_text,label
+"Congratulations! You won a prize, click here",phishing
+"Meeting at 3pm with client",legitimate
+"Your PayPal has been suspended. Click here to verify.",phishing
+"Update your bank account now to avoid closure.",phishing
+"Your invoice for July is attached.",legitimate
+"Please review tomorrow’s agenda.",legitimate
+"Click here to unlock your account.",phishing
+"Join our team meeting at 10AM.",legitimate
+"Claim your free gift card now.",phishing
+"Looking forward to lunch today!",legitimate
+"Security alert: unusual login detected. Verify now.",phishing
+"Don’t forget the team dinner tonight.",legitimate
+"Your subscription has expired. Renew immediately.",phishing
+"Submit your report by EOD.",legitimate
+"Click below to reset your email password.",phishing
+"Here's the final project plan.",legitimate
+"Account notice: verify your personal details.",phishing
+"Reschedule the call to Thursday.",legitimate
+"Login required: suspicious activity detected.",phishing
+"Feedback from the client was very positive.",legitimate
+"Update your credentials now or lose access.",phishing
+"Attached is your travel itinerary.",legitimate
+"Dear user, you’ve won a new phone! Click to claim.",phishing
+"Let's finalize the presentation today.",legitimate
+"URGENT: Your account will be locked in 24 hours!",phishing
+"Can you review this document?",legitimate
+"Verify your Apple ID immediately.",phishing
+"Weekly newsletter and updates attached.",legitimate
+"Congratulations, your tax refund is ready!",phishing
+"Can we meet at 2:30pm?",legitimate
+"Your Netflix account has been suspended. Click to update billing.",phishing
+"Urgent: Your account will be closed unless you verify now.",phishing
+"You've been selected for a cash reward. Claim here.",phishing
+"Apple ID login attempt detected. Verify identity immediately.",phishing
+"Your bank account password has been compromised.",phishing
+"Confirm your payment details to avoid service interruption.",phishing
+"You've received a secure message. Click here to view.",phishing
+"Verify your Microsoft account to keep using email.",phishing
+"Win a free vacation. Just enter your email here!",phishing
+"Click here to download your latest credit card statement.",phishing
+"Dear user, your email storage is full. Upgrade here.",phishing
+"Tax refund pending. Submit personal info to receive.",phishing
+"Reset your email credentials now to prevent lockout.",phishing
+"Security alert: unknown IP accessed your account.",phishing
+"Reactivate your ATM card now or it will be blocked.",phishing
+"Your student loan has been approved. Click to claim.",phishing
+"Win ₹10,000 Flipkart voucher today! Click below.",phishing
+"KYC update pending. Click here to update now.",phishing
+"Your UPI ID has been disabled. Reactivate instantly.",phishing
+"Google account verification failed. Retry now.",phishing
+"Please find attached the quarterly report.",legitimate
+"Team meeting rescheduled to 4 PM.",legitimate
+"Happy birthday! Hope you have a wonderful day!",legitimate
+"Invoice for your subscription is ready.",legitimate
+"Follow-up on the project discussion from yesterday.",legitimate
+"Welcome to the platform! Let us know if you need help.",legitimate
+"Reminder: Submit your timesheet by Friday.",legitimate
+"Flight itinerary for your travel next week.",legitimate
+"Thank you for attending the webinar.",legitimate
+"Looking forward to your feedback on the new UI.",legitimate
+"Lunch with marketing team confirmed.",legitimate
+"The minutes of meeting are attached here.",legitimate
+"New issue reported by QA team on ticket #456.",legitimate
+"Attached is the presentation for tomorrow's client call.",legitimate
+"Just checking in about next week's deployment.",legitimate
+"Here’s the link to join the strategy meeting.",legitimate
+"Confirming your slot for the performance review.",legitimate
+"Delivery confirmation: Order #123456 has shipped.",legitimate
+"Appreciation for excellent contribution in Q2.",legitimate
+"Your attendance has been marked for today.",legitimate
