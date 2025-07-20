@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phishguard-ai/static/css/main.ac2ed527.css",
+    "main.js": "/phishguard-ai/static/js/main.3ddeda33.js",
+    "static/js/453.8ab44547.chunk.js": "/phishguard-ai/static/js/453.8ab44547.chunk.js",
+    "index.html": "/phishguard-ai/index.html",
+    "main.ac2ed527.css.map": "/phishguard-ai/static/css/main.ac2ed527.css.map",
+    "main.3ddeda33.js.map": "/phishguard-ai/static/js/main.3ddeda33.js.map",
+    "453.8ab44547.chunk.js.map": "/phishguard-ai/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2ed527.css",
+    "static/js/main.3ddeda33.js"
+  ]
+}
