@@ -5,3 +5,10 @@ joblib
 pydantic
 bcrypt
 motor
+python-dotenv
+pymongo
+python-jose
+dnspython
+whois
+requests
+beautifulsoup4
