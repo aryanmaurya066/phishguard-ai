@@ -7,7 +7,7 @@ bcrypt
 motor
 python-dotenv
 pymongo
-python-jose
+python-jose==3.3.0
 dnspython
 whois
 requests
